@@ -6,6 +6,9 @@ Custom css for Discord
 - Copy **[inject-script.js](https://github.com/DevAndromeda/discord-custom-css/blob/main/inject-script.js)**
 - Paste it in console
 
+# is it against tos?
+idk, maybe? This process does not involve the use of clients like BetterDiscord or Powercord so this should be much safer.
+
 # is it dangerous?
 The script just injects the css to `<head>` element and nothing else.
 
